@@ -1,0 +1,12 @@
+C:\Users\godlym\source\repos\WindowsFormsApp1\ProjectDBtoExcel\obj\Debug\WindowsFormsApp1.exe
+C:\Users\godlym\source\repos\WindowsFormsApp1\ProjectDBtoExcel\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\godlym\source\repos\WindowsFormsApp1\ProjectDBtoExcel\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\godlym\source\repos\WindowsFormsApp1\ProjectDBtoExcel\bin\Debug\WindowsFormsApp1.exe
+C:\Users\godlym\source\repos\WindowsFormsApp1\ProjectDBtoExcel\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\godlym\source\repos\WindowsFormsApp1\ProjectDBtoExcel\bin\Debug\EPPlus.dll
+C:\Users\godlym\source\repos\WindowsFormsApp1\ProjectDBtoExcel\bin\Debug\EPPlus.xml
+C:\Users\godlym\source\repos\WindowsFormsApp1\ProjectDBtoExcel\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\godlym\source\repos\WindowsFormsApp1\ProjectDBtoExcel\obj\Debug\ProjectDBtoExcel.csproj.GenerateResource.cache
+C:\Users\godlym\source\repos\WindowsFormsApp1\ProjectDBtoExcel\obj\Debug\ProjectDBtoExcel.csproj.CoreCompileInputs.cache
+C:\Users\godlym\source\repos\WindowsFormsApp1\ProjectDBtoExcel\obj\Debug\ProjectDBtoExcel.csproj.CopyComplete
+C:\Users\godlym\source\repos\WindowsFormsApp1\ProjectDBtoExcel\obj\Debug\ProjectDBtoExcel.csprojAssemblyReference.cache
